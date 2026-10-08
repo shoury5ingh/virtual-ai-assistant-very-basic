@@ -1,0 +1,27 @@
+sara
+hello
+time
+date
+calculate 12 + 8
+calculate 5 / 0
+calculate abc + 2
+10 * 3
+-4 + 10
+joke
+quote
+fact
+recommend
+perceptron
+0.9
+0.8
+0.7
+game
+10
+x
+5
+15
+3
+asdkfj
+
+help
+exit
